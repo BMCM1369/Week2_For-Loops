@@ -7,11 +7,11 @@
 
         Console.WriteLine($"The square of {number} is {square}");
 
-       
+     
     }
+
     Console.WriteLine("Press any key to exit");
     Console.ReadLine();
-
 
 
 
